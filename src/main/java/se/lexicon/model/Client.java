@@ -12,7 +12,7 @@ public class Client {
         this.clientLastName = clientLastName;
     }
 
-    public Client() {
+    public Client(String firstName, String lastName) {
     }
 
     public int getClientId() {
